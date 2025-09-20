@@ -1,6 +1,6 @@
 # rainbow-html-css
 ## 纯CSS和HTML制作的简易版彩虹
-# 几个重要概念
+# 重要概念
 1. 文档流Normal Flow
 2. 块、内联、内联块
 3. margin合并
